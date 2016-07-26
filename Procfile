@@ -1,1 +1,1 @@
-web: python runserver.py -a "$AUTH_SERVICE" -u "$USERNAME" -p "$PASSWORD" -l "$LOCATION" -r "$SEARCHRADIUS" -P $PORT -c
+web: python runserver.py -a ptc -u Enochen -p qscgujikolp -l "$LOCATION" -r "$SEARCHRADIUS" -P $PORT
